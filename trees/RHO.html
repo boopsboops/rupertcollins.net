@@ -1,0 +1,49 @@
+<html>
+<head>
+	<title>Figure S2</title>
+	<style type="text/css">
+		.loading {
+			padding: 20px;
+			background: #FFFFDB;
+			border: 1px solid #F7E084;
+			margin: 10px;
+			font-weight: bold;
+		}
+	</style>
+</head>
+<body>
+<font size="4"><b>Figure S2 (online version).</b> NJ phylogram (reduced RHO data) generated in phyloXML SVG (scalable vector graphic) format. Data including identifiers, sequences, trace files, museum voucher codes and specimen images are accessed via the BOLD and GenBank Web sites using URLs embedded in the taxon names. This figure is best viewed with Mozilla Firefox to fully enjoy the benefits of SVG and URL linking. May take up to one minute to load. A scripting "error" may appear in some browsers&mdash;this is the browser taking time to render the complex diagram. Phylogram can be saved as a pdf by printing to file using a custom paper size (approximately 750 mm height). Links can be opened in a new tab using Ctrl+LeftClick. Archived version found <a href="http://www.plosone.org/article/fetchSingleRepresentation.action?uri=info:doi/10.1371/journal.pone.0028381.s002">here</a>.</font> <br>
+<hr width=100%>
+	<div id="svgCanvas">
+		<div class="loading">
+			Loading tree. This may take up to one minute. <img src="/trees/ajax-loader.gif" />
+		</div>
+	</div>
+</body>
+
+<script type="text/javascript" src="/trees/jquery-1.6.2.min.js" ></script> 
+<script type="text/javascript" src="/trees/raphael-min.js" ></script> 
+<script type="text/javascript" src="/trees/jsphylosvg-min.js"></script> 
+<script type="text/javascript">
+
+	$.get("/trees/RHO.xml", function(data) {
+		var dataObject = {
+			xml: data,
+			fileSource: true
+		};		
+		
+		// Global Styling
+		Smits.PhyloCanvas.Render.Style.line["stroke-width"] = 2;		// thicker lines
+		Smits.PhyloCanvas.Render.Style.text["font-size"] = 14;		// Increase font size to 16pt
+		Smits.PhyloCanvas.Render.Style.text["font-family"] = "Helvetica";	// change font
+		
+		phylocanvas = new Smits.PhyloCanvas(
+			dataObject,
+			'svgCanvas', 
+			1000, 3700
+		);
+		
+	});
+</script>
+	
+</html>

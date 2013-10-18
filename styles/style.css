@@ -1,0 +1,236 @@
+body
+{
+	background-image: url(../images/bg3.jpg);
+	background-repeat: repeat;
+	/*background-color: #325b37; this the is green I used for background bg3*/
+	/*background-color: blue;*/
+} 
+
+#container
+{
+	margin: 0 auto;
+	margin-top: 2%;
+	width: 40%;
+	background-color: white;
+	border-radius: 5px;
+	/*background-image: url(bg4.jpg);
+	background-repeat: repeat;*/
+	/*background:	rgba(250, 243, 224, 1);*/
+	/*opacity: .7;
+	filter: alpha(opacity=70);*/
+}
+
+.image
+{
+	float:right;
+	margin-right: 3%;
+	margin-top: 1%;
+	/*position: absolute;*/
+	/*left: 60%;*/
+	/*float:right;*/
+	/*padding: 3%;*/
+}
+
+
+#header
+{
+	background:transparent;
+	padding: 0;
+	margin-left: 3%;
+	margin-right: 0;
+}
+
+#header h1 { 
+	float:left;
+	clear:left;
+	margin: 0;
+	padding: 0;
+	font-size: 250%;
+	font-family: 'Bookman Old Style',Bookman,'URW Bookman L','Palatino Linotype',serif;
+	color: #2C2C2C;
+	text-shadow: #2C2C2C 0px 0px 1px;
+	/*text-align: center;*/
+	}
+
+#content 
+{
+	padding: 20% 3% 0% 3%;
+	font-size: 100%;
+	/*font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;;*/
+	font-family: Verdana,Geneva,'DejaVu Sans',sans-serif;
+	color: #2C2C2C;
+	/*text-shadow: #2C2C2C 0px 0px 1px;*/
+}
+
+#content h2 
+{
+	font-size: 100%;
+	font-family: Verdana,Geneva,'DejaVu Sans',sans-serif;
+	color: #2C2C2C;
+}
+
+#navigation
+{
+	float: left;
+	width: 100%;
+	background: transparent;
+	/*margin-left: -3%;*/
+}
+
+#navigation ul
+{
+	margin: 0;
+	padding: 0;
+}
+
+#navigation ul li
+{
+	list-style-type: none;
+	display: inline;
+
+}
+
+#navigation li a
+{
+	display: block;
+	float: left;
+	padding: 3%;
+	text-decoration: none;
+	font-weight:bold;
+	color: firebrick;
+	text-shadow: firebrick 0px 0px 1px;
+	/*border-right: 3px solid#fff;*/
+	font-family: Verdana,Geneva,'DejaVu Sans',sans-serif;
+	font-size: 100%;
+}
+
+#navigation li a:hover {
+	background: rgba(50, 91, 55, 0.7); 
+}
+
+#pub_content
+{
+	font-family: Verdana,Geneva,'DejaVu Sans',sans-serif;
+	color: #2C2C2C;
+	font-size: 100%;
+	padding: 0% 3% 3% 3%;
+}
+
+#pub_content dl
+{	
+	padding: 0% 3% 0% 3%;
+	/*padding: 20px 80px 10px 40px -- Padding for the top is 20 pixels, the right is 80 pixels, the bottom is 10 pixels, and the left is 40 pixels. */
+	/*padding-top:20%;*/
+	/*position:relative;*/
+	/*top:20px;*/
+}
+
+#pub_content dt
+{	
+	font-family: Verdana,Geneva,'DejaVu Sans',sans-serif;
+	color: #2C2C2C;
+	font-size: 100%;
+	padding-top: 2%;
+}
+
+#pub_content dd
+{	
+	font-family: Verdana,Geneva,'DejaVu Sans',sans-serif;
+	color: #2C2C2C;
+	font-size: 90%;
+	padding: 2px;
+	margin-left:3%;
+}
+
+dd 
+{
+    display: list-item;
+    list-style-type: disc;
+}
+
+#pub_stretch
+{
+	font-family: Verdana,Geneva,'DejaVu Sans',sans-serif;
+	color: #2C2C2C;
+	font-size: 100%;
+	padding: 0% 3% 3% 3%;
+}
+
+#pub_stretch dl
+{	
+	padding: 0% 3% 0% 3%;
+	/*padding: 20px 80px 10px 40px -- Padding for the top is 20 pixels, the right is 80 pixels, the bottom is 10 pixels, and the left is 40 pixels. */
+	/*padding-top:20%;*/
+	/*position:relative;*/
+	/*top:20px;*/
+}
+
+#pub_stretch dt
+{	
+	font-family: Verdana,Geneva,'DejaVu Sans',sans-serif;
+	color: #2C2C2C;
+	font-size: 100%;
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+
+#pub_stretch dd
+{	
+	font-family: Verdana,Geneva,'DejaVu Sans',sans-serif;
+	color: #2C2C2C;
+	font-size: 90%;
+	padding-bottom: 2%;
+	margin-left:3%;
+}
+
+#footer
+{
+	width: 100%;
+	height:34px;
+	background: transparent;
+	text-align: right;
+}
+
+#footer p {
+	font-size: 80%;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	color: #2C2C2C;
+	margin-right: 3%;
+}
+
+#social-icons
+{
+	float: left;
+	width: 100%;
+	background: transparent;
+}
+
+#social-icons ul
+{
+	margin: 0;
+	padding: 0;
+}
+
+#social-icons ul li
+{
+	list-style-type: none;
+	display: inline;
+}
+
+#social-icons li a
+{
+	display: block;
+	float: left;
+	padding: 0;
+	margin-left: 3%;
+}
+
+.shad
+{
+	box-shadow: 0px 0px 10px black;
+}
+
+a img
+{
+	border:0;
+}

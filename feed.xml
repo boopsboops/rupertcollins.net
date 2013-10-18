@@ -1,0 +1,59 @@
+<?xml version="1.0" ?> 
+<rss version="0.91">
+<channel>
+    <title>Rupert A. Collins Publications</title>
+    <link>http://rupertcollins.net</link>
+    <description>New publications from Rupert A. Collins</description>
+    <language>en-gb</language>
+    <copyright>Copyright Rupert A. Collins, 2013</copyright>
+    <lastBuildDate>Sat, 29 Dec 2012 13:30:00 GMT</lastBuildDate><!--NEED TO UPDATE THIS EACH TIME?-->
+<item>
+      <title>Rupert A. Collins: new publication</title>
+      <description>Barcoding's next top model: an evaluation of nucleotide substitution models for specimen identification. Methods in Ecology and Evolution.</description>
+      <link>http://rupertcollins.net/publications.html</link>
+      <pubDate>Thu, 01 Mar 2012 09:00:00 GMT</pubDate>
+</item>
+<item>
+      <title>Rupert A. Collins: new publication</title>
+      <description>Barcoding and border biosecurity: identifying cyprinid fishes in the aquarium trade. PLoS ONE.</description>
+      <link>http://rupertcollins.net/publications.html</link>
+      <pubDate>Thu, 01 Mar 2012 09:00:00 GMT</pubDate>
+</item>
+<item>
+      <title>Rupert A. Collins: new publication</title>
+      <description>Spider: an R package for the analysis of species identity and evolution, with particular reference to DNA barcoding. Molecular Ecology Resources. </description>
+      <link>http://rupertcollins.net/publications.html</link>
+      <pubDate>Thu, 01 Mar 2012 09:00:00 GMT</pubDate>
+</item>
+<item>
+      <title>Rupert A. Collins: new publication</title>
+      <description>Sliding window analyses for optimal selection of mini-barcodes, and application to 454-pyrosequencing for specimen identification from degraded DNA. PLoS ONE. </description>
+      <link>http://rupertcollins.net/publications.html</link>
+      <pubDate>Wed, 30 May 2012 01:30:00 GMT</pubDate>
+</item>
+<item>
+      <title>Rupert A. Collins: new publication</title>
+      <description>Identification of Ornamental Fishes for Biosecurity. PhD thesis.</description>
+      <link>http://rupertcollins.net/publications.html</link>
+      <pubDate>Tue, 09 Oct 2012 15:30:00 GMT</pubDate>
+</item>
+<item>
+      <title>Rupert A. Collins: new publication</title>
+      <description>Investigating interspecific hybridisation in ornamental fishes. Figshare electronic publication.</description>
+      <link>http://rupertcollins.net/publications.html</link>
+      <pubDate>Tue, 09 Oct 2012 15:30:00 GMT</pubDate>
+</item>
+<item>
+      <title>Rupert A. Collins: new publication</title>
+      <description>Something in the water: biosecurity monitoring of ornamental fish imports using environmental DNA. Biological Invasions.</description>
+      <link>http://rupertcollins.net/publications.html</link>
+      <pubDate>Sat, 29 Dec 2012 13:30:00 GMT</pubDate>
+</item>
+<item>
+      <title>Rupert A. Collins: new publication</title>
+      <description>The seven deadly sins of DNA barcoding. Molecular Ecology Resources.</description>
+      <link>http://rupertcollins.net/publications.html</link>
+      <pubDate>Sat, 29 Dec 2012 13:30:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
