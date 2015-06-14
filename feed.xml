@@ -6,7 +6,7 @@
     <description>New publications from Rupert A. Collins</description>
     <language>en-gb</language>
     <copyright>Copyright Rupert A. Collins, 2014</copyright>
-    <lastBuildDate>Sat, 27 Sep 2014 00:00:00 GMT</lastBuildDate><!--NEED TO UPDATE THIS EACH TIME?-->
+    <lastBuildDate>Sun, 14 Jun 2015 09:00:00 GMT</lastBuildDate><!--NEED TO UPDATE THIS EACH TIME?-->
 <item>
       <title>Rupert A. Collins: new publication</title>
       <description>Barcoding's next top model: an evaluation of nucleotide substitution models for specimen identification. Methods in Ecology and Evolution.</description>
@@ -60,6 +60,12 @@
       <description>Known knowns, known unknowns, unknown unknowns and unknown knowns in DNA barcoding: a comment on Dowton et al. Systematic Biology.</description>
       <link>http://rupertcollins.net/publications.html</link>
       <pubDate>Mon, 04 Aug 2014 09:00:00 GMT</pubDate>
+</item>
+<item>
+      <title>Rupert A. Collins: new publication</title>
+      <description>A preliminary inventory of the catfishes of the lower Rio Nhamunda, Brazil (Ostariophysi, Siluriformes). Biodiversity Data Journal.</description>
+      <link>http://rupertcollins.net/publications.html</link>
+      <pubDate>Sun, 14 Jun 2015 09:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
