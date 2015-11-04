@@ -186,38 +186,39 @@ dd
 #footer
 {
 	width: 100%;
-	height:34px;
+	height: 34px;
 	background: transparent;
 	text-align: right;
 }
 
-#footer p {
+#footer p 
+{
 	font-size: 80%;
 	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 	color: #2C2C2C;
 	margin-right: 3%;
 }
 
-#social-icons
+#soc_ic
 {
 	float: left;
 	width: 100%;
 	background: transparent;
 }
 
-#social-icons ul
+#soc_ic ul
 {
 	margin: 0;
 	padding: 0;
 }
 
-#social-icons ul li
+#soc_ic ul li
 {
 	list-style-type: none;
 	display: inline;
 }
 
-#social-icons li a
+#soc_ic li a
 {
 	display: block;
 	float: left;

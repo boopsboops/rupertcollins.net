@@ -1,71 +1,69 @@
-<?xml version="1.0" ?> 
-<rss version="0.91">
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
     <title>Rupert A. Collins Publications</title>
     <link>http://rupertcollins.net</link>
     <description>New publications from Rupert A. Collins</description>
-    <language>en-gb</language>
-    <copyright>Copyright Rupert A. Collins, 2014</copyright>
-    <lastBuildDate>Sun, 14 Jun 2015 09:00:00 GMT</lastBuildDate><!--NEED TO UPDATE THIS EACH TIME?-->
+    <atom:link href="http://rupertcollins.net/feed.xml" rel="self" type="application/rss+xml" />
 <item>
       <title>Rupert A. Collins: new publication</title>
       <description>Barcoding's next top model: an evaluation of nucleotide substitution models for specimen identification. Methods in Ecology and Evolution.</description>
-      <link>http://rupertcollins.net/publications.html</link>
-      <pubDate>Thu, 01 Mar 2012 09:00:00 GMT</pubDate>
+      <link>http://dx.doi.org/10.1111/j.2041-210X.2011.00176.x</link>
+      <guid>http://dx.doi.org/10.1111/j.2041-210X.2011.00176.x</guid>
 </item>
 <item>
       <title>Rupert A. Collins: new publication</title>
       <description>Barcoding and border biosecurity: identifying cyprinid fishes in the aquarium trade. PLoS ONE.</description>
-      <link>http://rupertcollins.net/publications.html</link>
-      <pubDate>Thu, 01 Mar 2012 09:00:00 GMT</pubDate>
+      <link>http://dx.doi.org/10.1371/journal.pone.0028381</link>
+      <guid>http://dx.doi.org/10.1371/journal.pone.0028381</guid>
 </item>
 <item>
       <title>Rupert A. Collins: new publication</title>
       <description>Spider: an R package for the analysis of species identity and evolution, with particular reference to DNA barcoding. Molecular Ecology Resources. </description>
-      <link>http://rupertcollins.net/publications.html</link>
-      <pubDate>Thu, 01 Mar 2012 09:00:00 GMT</pubDate>
+      <link>http://dx.doi.org/10.1111/j.1755-0998.2011.03108.x</link>
+      <guid>http://dx.doi.org/10.1111/j.1755-0998.2011.03108.x</guid>
 </item>
 <item>
       <title>Rupert A. Collins: new publication</title>
       <description>Sliding window analyses for optimal selection of mini-barcodes, and application to 454-pyrosequencing for specimen identification from degraded DNA. PLoS ONE. </description>
-      <link>http://rupertcollins.net/publications.html</link>
-      <pubDate>Wed, 30 May 2012 01:30:00 GMT</pubDate>
+      <link>http://dx.doi.org/10.1371/journal.pone.0038215</link>
+      <guid>http://dx.doi.org/10.1371/journal.pone.0038215</guid>
 </item>
 <item>
       <title>Rupert A. Collins: new publication</title>
       <description>Identification of Ornamental Fishes for Biosecurity. PhD thesis.</description>
-      <link>http://rupertcollins.net/publications.html</link>
-      <pubDate>Tue, 09 Oct 2012 15:30:00 GMT</pubDate>
+      <link>http://dx.doi.org/10182/4912</link>
+      <guid>http://dx.doi.org/10182/4912</guid>
 </item>
 <item>
       <title>Rupert A. Collins: new publication</title>
       <description>Investigating interspecific hybridisation in ornamental fishes. Figshare electronic publication.</description>
-      <link>http://rupertcollins.net/publications.html</link>
-      <pubDate>Tue, 09 Oct 2012 15:30:00 GMT</pubDate>
+      <link>http://dx.doi.org/10.6084/m9.figshare.96149</link>
+      <guid>http://dx.doi.org/10.6084/m9.figshare.96149</guid>
 </item>
 <item>
       <title>Rupert A. Collins: new publication</title>
       <description>Something in the water: biosecurity monitoring of ornamental fish imports using environmental DNA. Biological Invasions.</description>
-      <link>http://rupertcollins.net/publications.html</link>
-      <pubDate>Sat, 29 Dec 2012 13:30:00 GMT</pubDate>
+      <link>http://dx.doi.org/10.1007/s10530-012-0376-9</link>
+      <guid>http://dx.doi.org/10.1007/s10530-012-0376-9</guid>
 </item>
 <item>
       <title>Rupert A. Collins: new publication</title>
       <description>The seven deadly sins of DNA barcoding. Molecular Ecology Resources.</description>
-      <link>http://rupertcollins.net/publications.html</link>
-      <pubDate>Sat, 29 Dec 2012 13:30:00 GMT</pubDate>
+      <link>http://dx.doi.org/10.1111/1755-0998.12046</link>
+      <guid>http://dx.doi.org/10.1111/1755-0998.12046</guid>
 </item>
 <item>
       <title>Rupert A. Collins: new publication</title>
       <description>Known knowns, known unknowns, unknown unknowns and unknown knowns in DNA barcoding: a comment on Dowton et al. Systematic Biology.</description>
-      <link>http://rupertcollins.net/publications.html</link>
-      <pubDate>Mon, 04 Aug 2014 09:00:00 GMT</pubDate>
+      <link>http://dx.doi.org/10.1093/sysbio/syu060</link>
+      <guid>http://dx.doi.org/10.1093/sysbio/syu060</guid>
 </item>
 <item>
       <title>Rupert A. Collins: new publication</title>
       <description>A preliminary inventory of the catfishes of the lower Rio Nhamunda, Brazil (Ostariophysi, Siluriformes). Biodiversity Data Journal.</description>
-      <link>http://rupertcollins.net/publications.html</link>
-      <pubDate>Sun, 14 Jun 2015 09:00:00 GMT</pubDate>
+      <link>http://dx.doi.org/10.3897/BDJ.3.e4162</link>
+      <guid>http://dx.doi.org/10.3897/BDJ.3.e4162</guid>
 </item>
 </channel>
 </rss>
